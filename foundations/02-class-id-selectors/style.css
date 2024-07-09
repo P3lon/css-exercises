@@ -1,0 +1,17 @@
+.odd{
+    background-color: rgb(255, 126, 195);
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+
+#ndos {
+    color: rgb(107, 107, 235);
+    font-size: 36px;
+}
+#ntres {
+    font-size: 24px;
+}
+#ncuatro {
+    color: rgb(107, 245, 114);
+    font-size: 24px;
+    font-weight: bold;
+}
